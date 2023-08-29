@@ -1,18 +1,18 @@
 ## Hi there, I'm Jonny 👋
 
-### Aout me 
+### About me 
 <ul>
 <li>I'm a full stack web developer </li>
 <li>2022 graduate with diploma from BrainStation 👨‍🎓</li>
 <li>New found love for all things coding and software 👨‍💻</li>
 <li>Good eye for and appreciation of beautiful design 🎨</li>
-<li>Currently improving my skills and learning more about React, Next.js and AWS 🌱</li>
+<li>Currently improving my skills and learning more about Docker, .NET and 3JS 🌱</li>
 <li>Aspiring film photographer 📷 🎞</li>
 <li>In my spare time I love to ⛷ play 🎾 and hike ⛰</li>
 <li>Excited for the future 🚀</li>
   </ul>
 
-### find me
+### Find me
 
 I am currently looking for employment and freelance opportunities! 
 
